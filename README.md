@@ -1,2 +1,2 @@
 # teste2
-aa
+Utilizando o Git para teste.
